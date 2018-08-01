@@ -1,2 +1,2 @@
-# gsky-notebooks
-Tutorials for NCI's GSKY Data Server
+# gsky-demos
+Notebook demos and tutorials for NCI's GSKY Data Server.
